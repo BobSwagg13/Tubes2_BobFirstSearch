@@ -38,7 +38,7 @@ BFS is a search algorithm that explores a graph level by level. Starting from th
     npm install
     ```
    - Start the frontend development server.
-       ```bash
+   ```bash
     npm run dev
     ```
 
